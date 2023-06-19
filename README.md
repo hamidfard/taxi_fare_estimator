@@ -1,3 +1,4 @@
 # Taxi fare estimator
-Estimating the cost of a New York City cab by neural network regressor
-<a href='https://www.kaggle.com/c/new-york-city-taxi-fare-prediction'>Kaggle competition
+The <a href='https://www.kaggle.com/c/new-york-city-taxi-fare-prediction'>Kaggle competition</a> provides a dataset with about 55 million New York City taxi fares records. For this project, we use a randomly sorted subset of 120,000 records.
+
+We run a neural to predict the fare of taxis.
